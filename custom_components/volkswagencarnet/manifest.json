@@ -1,7 +1,7 @@
 {
-    "domain": "Jazzi0",
-    "name": "Carnot",
-    "documentation": "https://github.com/Jazzi0/homeassistant-volkswagencarnet",
+    "domain": "weConnect",
+    "name": "Volkswagen",
+    "documentation": "https://github.com/robinostlund/homeassistant-volkswagencarnet",
     "dependencies": [],
     "codeowners": [],
     "requirements": []
