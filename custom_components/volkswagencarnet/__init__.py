@@ -18,10 +18,10 @@ _LOGGER = logging.getLogger(__name__)
 DOMAIN = "volkswagencarnet"
 DATA_KEY = DOMAIN
 CONF_REGION = "region"
-DEFAULT_REGION = "SV"
+DEFAULT_REGION = "NO"
 CONF_MUTABLE = "mutable"
 
-REQUIREMENTS = ["volkswagencarnet==4.0.23"]
+REQUIREMENTS = ["volkswagencarnet==4.0.28"]
 
 SIGNAL_STATE_UPDATED = "{}.updated".format(DOMAIN)
 
