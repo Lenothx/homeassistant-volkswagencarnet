@@ -1,5 +1,5 @@
 {
-    "domain": "volkswagencarnet",
+    "domain": "oldcarnet",
     "name": "Volkswagen WeConnect",
     "documentation": "https://github.com/robinostlund/homeassistant-volkswagencarnet",
     "dependencies": ["volkswagencarnet"],
